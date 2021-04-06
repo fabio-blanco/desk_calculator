@@ -34,3 +34,6 @@
 
 # Specific Desk Calculator executables
 chapter_9/dc
+
+# Vim
+*.swp
