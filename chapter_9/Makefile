@@ -31,4 +31,4 @@ $(BUILD_DIR)/table.o: $(SRC_DIR)/table.hpp $(SRC_DIR)/table.cpp
 	$(CC) $(CFLAGS) -o $@  -c $(SRC_DIR)/table.cpp
 
 clean: 
-	$(RM) $(BUILD_DIR)/*.*
+	$(RM) $(BUILD_DIR)/*.* $(APPNAME)

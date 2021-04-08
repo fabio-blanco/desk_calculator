@@ -8,7 +8,6 @@ RM=rm -f
 BUILD_DIR = ./build
 SRC_DIR = ./src
 
-#OBJS=$(BUILD_DIR)/lexer.o $(BUILD_DIR)/parser.o $(BUILD_DIR)/calculator.o $(BUILD_DIR)/main.o
 OBJS=$(addprefix $(BUILD_DIR)/, lexer.o parser.o calculator.o main.o)
 
 all: $(APPNAME)
