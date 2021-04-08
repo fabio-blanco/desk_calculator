@@ -11,6 +11,7 @@ The purpose here is just to collect references of simple examples of valid C++ a
 ## Variations of the complete application
 
 [Procedural code organized in namespaces](https://github.com/fabio-blanco/desk_calculator/tree/main/chapter_9) The Desk Calculator (dc) modularized with namespaces.
+
 [Object Oriented version](https://github.com/fabio-blanco/desk_calculator/tree/main/oop_calc) The Desk Calculator (dc) orgnized in classes.
 
 ## Lisense
